@@ -1,0 +1,1 @@
+This is a caching algorithm project which emphasizes on FIFO, LIFO and hit caching for browsers
